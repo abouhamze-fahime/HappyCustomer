@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "k4xmN/jtAahhjiYjrGN44dOmWF4+GYrjHN/7XQWonjTD5IGp6/8KZ+2LPhl8l+rXQYckRtK9p5bbBER9UDEoSA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\HappyCustomer\\src\\HappyCustApi\\HappyCustApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f_abouhamze\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\f_abouhamze\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\f_abouhamze\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\f_abouhamze\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\f_abouhamze\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\f_abouhamze\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
